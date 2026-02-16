@@ -1,6 +1,10 @@
 <h1 align="center">BENOPRO</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/benopro/benopro/main/banner.png" width="900">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Ethical+Hacker;Web+Application+Security;Penetration+Tester;Python+Automation">
 </p>
 
@@ -18,26 +22,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/benopro/benopro/main/banner.png" width="800">
-</p>
-
-## 📊 SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benopro&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2E0854&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/benopro/benopro/main/banner.png" width="800">
-</p>
-
 
 ## 🖥️ SYSTEM PROFILE
 
