@@ -39,12 +39,8 @@ sqlmap
 metasploit
 kali_linux
 
-📊 SYSTEM METRICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=benopro&show_icons=true&theme=chartreuse-dark&hide_border=true" /> </p>
-
 🧠 PHILOSOPHY
 understand_systems()
 identify_weaknesses()
 secure_everything()
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer"/> </p> ```
