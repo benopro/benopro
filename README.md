@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Ethical+Hacker;Web+Application+Security;Penetration+Tester;Python+Automation">
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=benopro&show_icons=true&theme=chartreuse-dark&hide_border=true" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer"/> </p> ```
 ---
 
 ## 🖥️ SYSTEM PROFILE
