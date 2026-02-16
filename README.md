@@ -18,6 +18,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benopro/benopro/main/banner.png" width="800">
+</p>
 
 ## 📊 SYSTEM METRICS
 
