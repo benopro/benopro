@@ -1,39 +1,50 @@
-<h1 align="center">BENOPRO</h1>
+<h1 align="center">
+  <span style="color:#00FF00;">BENOPRO</span>
+</h1>
 
 <p align="center">
-  Ethical Hacker • Security Researcher • Python Developer
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Web+Application+Security;Penetration+Testing;Bug+Bounty+Mindset;Python+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Ethical+Hacker;Web+Application+Security;Penetration+Tester;Python+Automation">
 </p>
 
 ---
 
-## 🧠 About Me
-
-Security-focused developer passionate about identifying and responsibly disclosing vulnerabilities in modern web applications.
-
-I focus on understanding how systems break — in order to make them stronger.
-
----
-
-## 🔐 Core Skills
-
-- Web Application Penetration Testing  
-- Authentication & Access Control Testing  
-- Vulnerability Analysis (XSS, SQLi, IDOR)  
-- Reconnaissance & Enumeration  
-- Secure Code Review  
-- Python Security Automation  
-- Linux & Networking  
-
----
-
-## ⚙️ Technical Focus
+## 🖥️ SYSTEM PROFILE
 
 ```bash
-reconnaissance
-vulnerability_assessment
-secure_architecture
-automation_scripts
+> whoami
+benopro
+
+> role
+ethical_hacker
+
+> specialization
+web_application_security
+
+> status
+learning • researching • building
+
+🔐 CORE CAPABILITIES
+Web Application Penetration Testing
+Authentication & Access Control Analysis
+Vulnerability Research (XSS, SQLi, IDOR)
+Reconnaissance & Enumeration
+Linux & Networking
+Python Security Automation
+
+🛠 TOOLKIT
+burpsuite
+nmap
+wireshark
+sqlmap
+metasploit
+kali_linux
+
+📊 SYSTEM METRICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=benopro&show_icons=true&theme=chartreuse-dark&hide_border=true" /> </p>
+
+🧠 PHILOSOPHY
+understand_systems()
+identify_weaknesses()
+secure_everything()
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer"/> </p> ```
