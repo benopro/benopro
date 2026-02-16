@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">BENOPRO</h1>
 
-<!--
-**benopro/benopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Ethical Hacker • Security Researcher • Python Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Web+Application+Security;Penetration+Testing;Bug+Bounty+Mindset;Python+Automation">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+Security-focused developer passionate about identifying and responsibly disclosing vulnerabilities in modern web applications.
+
+I focus on understanding how systems break — in order to make them stronger.
+
+---
+
+## 🔐 Core Skills
+
+- Web Application Penetration Testing  
+- Authentication & Access Control Testing  
+- Vulnerability Analysis (XSS, SQLi, IDOR)  
+- Reconnaissance & Enumeration  
+- Secure Code Review  
+- Python Security Automation  
+- Linux & Networking  
+
+---
+
+## ⚙️ Technical Focus
+
+```bash
+reconnaissance
+vulnerability_assessment
+secure_architecture
+automation_scripts
