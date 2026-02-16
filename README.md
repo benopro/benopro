@@ -8,6 +8,16 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=benopro&show_icons=true&theme=chartreuse-dark&hide_border=true" /> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer"/> </p> ```
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00FF00?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00FF00?style=for-the-badge&logo=go&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-00FF00?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-00FF00?style=for-the-badge&logo=css3&logoColor=black"/>
+</p>
 ---
 
 ## 🖥️ SYSTEM PROFILE
