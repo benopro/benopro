@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Ethical+Hacker;Ransomware Researcher;malware analyst;Malware / Ransomware Researcher;Vulnerability Researche">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Ethical+Hacker;Ransomware+Researcher;Malware+Analyst;Reverse+Engineer;Vulnerability+Researcher">
 </p>
 
 ---
@@ -20,36 +20,39 @@ benopro
 ethical_hacker
 
 > specialization
-web_application_security
+malware_and_ransomware_researcher
 
 > status
 learning • researching • building
 
 🔐 CORE CAPABILITIES
-Web Application Penetration Testing
-Authentication & Access Control Analysis
-Vulnerability Research (XSS, SQLi, IDOR)
-Reconnaissance & Enumeration
-Linux & Networking
-Python Security Automation
+Static & Dynamic Malware Analysis
+Ransomware Behavior & Decryption Research
+Reverse Engineering (x86/x64 Architecture)
+Vulnerability Research & PoC Development
+YARA Rules Creation & Threat Intelligence
+Python & C/C++ Security Automation
 
 🛠 TOOLKIT
-burpsuite
-nmap
+ghidra
+ida_pro
+x64dbg
+pebear
+yara
 wireshark
-sqlmap
-metasploit
+volatility
+burpsuite
 kali_linux
 
-🧠 PHILOSOPHY
-understand_systems()
-identify_weaknesses()
-secure_everything()
-
-
+💻 PROGRAMMING LANGUAGES
 python        ██████████████░░░░
 rust          ██████████████████
 c/c++         ██████████████████
 javascript    ██████████████░░░░
 golang        █████████████░░░░░
 java          ███░░░░░░░░░░░░░░░
+
+🧠 PHILOSOPHY
+understand_systems()
+identify_weaknesses()
+secure_everything()
