@@ -10,14 +10,6 @@
 
 ---
 
-## 💻 PROGRAMMING LANGUAGES
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
 ## 🖥️ SYSTEM PROFILE
 
 ```bash
@@ -54,14 +46,10 @@ understand_systems()
 identify_weaknesses()
 secure_everything()
 
----
 
-## 💻 PROGRAMMING LANGUAGES
-
-```bash
 python        ██████████████░░░░
 rust          ██████████████████
 c/c++         ██████████████████
-java          ███░░░░░░░░░░░░░░░
 javascript    ██████████████░░░░
 golang        █████████████░░░░░
+java          ███░░░░░░░░░░░░░░░
