@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Ethical+Hacker;Web+Application+Security;Penetration+Tester;Python+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Ethical+Hacker;Ransomware Researcher;malware analyst;Malware / Ransomware Researcher;Vulnerability Researche">
 </p>
 
 ---
